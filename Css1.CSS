@@ -1,0 +1,31 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-weight: normal;
+    text-decoration: lightblue underline;
+    background-color: rgb(7, 7, 7);
+    letter-spacing: 10px;
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    line-height:135%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    align-items: center;
+    background-color: paleturquoise;
+    text-align: center;
+}
+
+h3 {
+    align-items: center;
+    background-color: paleturquoise;
+    text-align: center;
+}
